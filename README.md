@@ -1,5 +1,3 @@
-![banner](banner.png)
-
 # Samed Çetinkaya
 
 ## Ürün Odaklı Full-Stack Yazılım Mühendisi (AI Entegre)
