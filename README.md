@@ -86,19 +86,6 @@ AI hizmetleri sunan ve yönetilebilir altyapıya sahip web tabanlı bir platform
 
 ---
 
-## 🔒 Kod Paylaşımı Hakkında
-
-Geliştirdiğim projeler:
-
-- Gerçek kullanıcı ihtiyaçları için üretilmiş
-- Ticari karşılığı olan
-- Aktif veya kullanılabilir durumda olan sistemlerdir
-
-Bu nedenle **kaynak kodların tamamı paylaşılamamaktadır**.  
-Ancak proje mimarileri, teknik kararlar ve çözüm yaklaşımları **case study repo’larında detaylı şekilde dokümante edilmiştir**.
-
----
-
 ## 🛠 Kullandığım Teknolojiler
 
 **Backend & API**
