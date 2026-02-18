@@ -34,7 +34,7 @@ Frontend, backend, mobil, masaüstü ve yapay zeka taraflarında;
 
 ### 🍄 Mantar Türü Tespit Eden Mobil Uygulama
 
-> 2 kişilik ekip ile uçtan uca geliştirilmiştir.
+- > 2 kişilik ekip ile uçtan uca geliştirilmiştir.
 
 - Farklı açık kaynak veri setleri harmanlanarak projeye özel bir görüntü veri seti oluşturduk.
 - Gerçek dünya koşullarını yansıtması amacıyla arka planı temizlenmemiş (gürültülü) görüntüler ile model eğitimi gerçekleştirdik.
