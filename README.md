@@ -39,13 +39,20 @@ Frontend, backend, mobil, masaüstü ve yapay zeka taraflarında;
 - Eğitim ve validasyon verilerinden tamamen ayrılmış bir test seti üzerinde %92 doğruluk elde ettik.
 - CNN tabanlı modeli TensorFlow/Keras ile eğiterek TensorFlow Lite formatına dönüştürdük ve mobil uygulamaya entegre ettik.
 - Veri hazırlama, model eğitimi, değerlendirme ve mobil entegrasyon süreçlerini uçtan uca yönettik.
-  > 📌 2 kişilik ekip ile uçtan uca geliştirilmiştir. Teknik detaylar, mimari kararlar ve deneysel süreçler ilgili proje reposunda paylaşılmıştır.
+
+> 📌 2 kişilik ekip ile uçtan uca geliştirilmiştir. Teknik detaylar, mimari kararlar ve deneysel süreçler ilgili proje reposunda paylaşılmıştır.
 
 ### 📊 Simülasyon Telemetry Dashboard (Mobil)
 
-- Simülasyon oyunları için gerçek zamanlı araç verileri
-- Telemetry verilerinin işlenmesi ve görselleştirilmesi
-- Performans ve veri akışı odaklı mimari
+Gerçek zamanlı simülasyon verilerini mobil ortamda görselleştiren uçtan uca bir telemetry sistemi geliştirdim.
+
+- Üretici firmanın teknik dokümantasyonunu inceleyerek oyun verilerini okuyacak şekilde özelleştirilmiş bir DLL yapısı oluşturdum.
+- Oyundan alınan telemetry verilerini işleyip mobil uygulamaya ileten bir ara katman (console uygulaması) geliştirdim.
+- Flutter ile geliştirdiğim mobil uygulamada, ağ üzerinden aktarılan verileri anlık olarak işleyerek görselleştirdim.
+- Veri akışı, gecikme ve performans odaklı bir sistem mimarisi tasarladım.
+- Mobil arayüzde kullanılan kadran ve uyarı bileşenlerini sıfırdan oluşturdum.
+
+> 📌 Sistem mimarisi ve veri akış detayları ilgili proje reposunda açıklanmıştır.
 
 ### 🔗 Hatalı Link Tespiti Yapan Masaüstü Uygulaması
 
