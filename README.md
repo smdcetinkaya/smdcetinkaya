@@ -2,31 +2,32 @@
 
 ## Ürün Odaklı Full-Stack Yazılım Mühendisi (AI Entegre)
 
-Ben, **gerçek ihtiyaçlardan yola çıkarak sıfırdan çalışan ürünler geliştiren** bir yazılım mühendisiyim.  
-Bir projede ihtiyaç neyse, o problemi çözecek teknolojiyi öğrenir, uygular ve **sonuna kadar bitiririm**.
+**Gerçek kullanıcı ihtiyaçlarından yola çıkarak ölçeklenebilir ve sürdürülebilir yazılım sistemleri geliştiren bir mühendisim.**
 
-Frontend, backend, mobil, masaüstü ve yapay zeka taraflarında;  
-**“nasıl yapılır?”dan çok “neden böyle yapılmalı?”** sorusuna odaklanırım.
+Özellikle asenkron yapılar, paralel işlem süreçleri, veri akışı ve backend mimarisi üzerine çalışmayı severim. Sistem tasarımı yaparken yalnızca kodun çalışmasına değil, uzun vadede nasıl evrileceğine odaklanırım.
+
+Full-Stack geliştirme deneyimim sayesinde, tasarladığım sistemlerin frontend ve kullanıcı tarafındaki etkisini de göz önünde bulundurur, **uçtan uca çalışan ürünler.** ortaya çıkarırım.
 
 ---
 
 ## 🚀 Mühendislik Yaklaşımım
 
-- Problemi önce **kullanıcı ihtiyacı** olarak ele alırım
-- Gerekirse süreci hızlandıracak **özel algoritmalar** yazarım
-- Backend, frontend, mobil veya AI ayrımı yapmam
-- Performans, sürdürülebilirlik ve okunabilirliği öncelik alırım
-- Çalışan, kullanılabilir ve mantığı oturmuş ürün teslim ederim
+- Problemleri sistem gereksinimleri ve kullanıcı deneyimi ile birlikte ele alırım.
+- Asenkron ve paralel yapılarla performans odaklı çözümler üretirim.
+- Ölçeklenebilir backend mimarileri tasarlarım.
+- Gerektiğinde AI servislerini ürün içerisine entegre ederim.
+- Üretime hazır, sürdürülebilir ve okunabilir kod hedeflerim.
 
 ---
 
 ## 🧠 Uzmanlık Alanlarım
 
-- Full-Stack Uygulama Geliştirme (Web / Desktop / Mobile)
-- Yapay Zeka Model Geliştirme ve Entegrasyonu
-- Gerçek Zamanlı Veri ve Telemetry Sistemleri
-- API, Async ve Paralel Yapılar
-- Ürünleşebilir Yazılım Mimari Tasarımı
+- Backend Geliştirme & Sistem Tasarımı
+- API ve Servis Mimarileri
+- Asenkron & Paralel Programlama
+- Gerçek Zamanlı Veri İşleme
+- Full-Stack Uygulama Geliştirme
+- AI Entegrasyonu ve Model Deployment
 
 ---
 
