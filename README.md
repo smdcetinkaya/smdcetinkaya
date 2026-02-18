@@ -106,7 +106,7 @@ AI hizmetleri sunan ve yönetilebilir altyapıya sahip web tabanlı bir platform
 
 **Veri & Veritabanı**
 
-- SQL, MySQL, SQLite, PostgreSQL, Entity Framework
+- SQL, MySQL, PostgreSQL, Entity Framework
 
 **Diğer**
 
