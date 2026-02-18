@@ -1,6 +1,6 @@
 # Samed Çetinkaya
 
-## Ürün Odaklı Full-Stack Yazılım Mühendisi (AI Entegre)
+## Backend & Systems Engineer | Full-Stack & AI Integration Experience
 
 **Gerçek kullanıcı ihtiyaçlarından yola çıkarak ölçeklenebilir ve sürdürülebilir yazılım sistemleri geliştiren bir mühendisim.**
 
