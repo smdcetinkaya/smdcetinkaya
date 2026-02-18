@@ -1,6 +1,8 @@
 # Samed Çetinkaya
 
-## Backend & Systems Engineer | Full-Stack & AI Integration Experience
+## Backend & Systems Engineer
+
+> Full-Stack & AI Integration
 
 **Gerçek kullanıcı ihtiyaçlarından yola çıkarak ölçeklenebilir ve sürdürülebilir yazılım sistemleri geliştiren bir mühendisim.**
 
