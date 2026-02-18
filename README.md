@@ -34,14 +34,14 @@ Frontend, backend, mobil, masaüstü ve yapay zeka taraflarında;
 
 ### 🍄 Mantar Türü Tespit Eden Mobil Uygulama
 
-2 kişilik ekip ile uçtan uca geliştirilmiştir.
+> 2 kişilik ekip ile uçtan uca geliştirilmiştir.
 
 - Farklı açık kaynak veri setleri harmanlanarak projeye özel bir görüntü veri seti oluşturduk.
 - Gerçek dünya koşullarını yansıtması amacıyla arka planı temizlenmemiş (gürültülü) görüntüler ile model eğitimi gerçekleştirdik.
 - Eğitim ve validasyon verilerinden tamamen ayrılmış bir test seti üzerinde %92 doğruluk elde ettik.
 - CNN tabanlı modeli TensorFlow/Keras ile eğiterek TensorFlow Lite formatına dönüştürdük ve mobil uygulamaya entegre ettik.
 - Veri hazırlama, model eğitimi, değerlendirme ve mobil entegrasyon süreçlerini uçtan uca yönettik.
-  📌 Teknik detaylar, mimari kararlar ve deneysel süreçler ilgili proje reposunda paylaşılmıştır.
+  > 📌 Teknik detaylar, mimari kararlar ve deneysel süreçler ilgili proje reposunda paylaşılmıştır.
 
 ### 📊 Simülasyon Telemetry Dashboard (Mobil)
 
