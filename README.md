@@ -6,7 +6,7 @@
 
 Özellikle asenkron yapılar, paralel işlem süreçleri, veri akışı ve backend mimarisi üzerine çalışmayı severim. Sistem tasarımı yaparken yalnızca kodun çalışmasına değil, uzun vadede nasıl evrileceğine odaklanırım.
 
-Full-Stack geliştirme deneyimim sayesinde, tasarladığım sistemlerin frontend ve kullanıcı tarafındaki etkisini de göz önünde bulundurur, **uçtan uca çalışan ürünler.** ortaya çıkarırım.
+Full-Stack geliştirme deneyimim sayesinde, tasarladığım sistemlerin frontend ve kullanıcı tarafındaki etkisini de göz önünde bulundurur, **uçtan uca çalışan ürünler** ortaya çıkarırım.
 
 ---
 
@@ -20,7 +20,7 @@ Full-Stack geliştirme deneyimim sayesinde, tasarladığım sistemlerin frontend
 
 ---
 
-## 🧠 Uzmanlık Alanlarım
+## 🧠 Teknik Odak Alanlarım
 
 - Backend Geliştirme & Sistem Tasarımı
 - API ve Servis Mimarileri
@@ -92,7 +92,7 @@ Geliştirdiğim projeler:
 - Ticari karşılığı olan
 - Aktif veya kullanılabilir durumda olan sistemlerdir
 
-Bu nedenle **kaynak kodlar paylaşılmamaktadır**.  
+Bu nedenle **kaynak kodların tamamı paylaşılamamaktadır**.  
 Ancak proje mimarileri, teknik kararlar ve çözüm yaklaşımları **case study repo’larında detaylı şekilde dokümante edilmiştir**.
 
 ---
