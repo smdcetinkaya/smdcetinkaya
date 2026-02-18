@@ -80,7 +80,7 @@ AI hizmetleri sunan ve yönetilebilir altyapıya sahip web tabanlı bir platform
 - Kullanım bazlı kredi sistemi tasarlayarak servis başına maliyetlendirme ve paket yönetimi mekanizması oluşturdum.
 - Kredilerin yenilenmesi ve kullanıcı erişim kontrolünü yöneten bir iş akışı kurguladım.
 
-## > 📌 Sistem mimarisi ve teknik detaylar ilgili proje reposunda açıklanmıştır.
+> 📌 Sistem mimarisi ve teknik detaylar ilgili proje reposunda açıklanmıştır.
 
 > Diğer stok takip ve blog tabanlı üretim projeleri de bulunmaktadır.
 
