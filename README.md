@@ -65,13 +65,19 @@ Belirlenen bir web sitesi içerisinde tanımlı derinlik seviyesine kadar bağla
 - Performansı artırmak amacıyla paralel tarama mekanizması ekledim ve aynı anda birden fazla siteyi analiz edebilen çoklu tarama sistemi geliştirdim.
 - Döngüsel bağlantı problemlerini önlemek için kontrollü derinlik ve gezinme mekanizması tasarladım.
 
-📌 Mimari yapı ve teknik detaylar ilgili proje reposunda paylaşılmıştır.
+> 📌 Mimari yapı ve teknik detaylar ilgili proje reposunda paylaşılmıştır.
 
 ### 🌐 ASP.NET Tabanlı AI Servisleri Sunan Web Platformu
 
-- Metin özetleme gibi AI servisleri
-- Backend–frontend entegrasyonu
-- Kurumsal kullanım senaryolarına uygun yapı
+AI hizmetleri sunan ve yönetilebilir altyapıya sahip web tabanlı bir platform geliştirdim.
+
+- ASP.NET tabanlı bir web mimarisi kurarak kullanıcı arayüzü ve servis katmanını entegre ettim.
+- İçerik ve servis yönetimi için rol bazlı yetkilendirme (Admin/Moderatör) yapısına sahip bir yönetim paneli geliştirdim.
+- Metin özetleme gibi AI servislerini platforma entegre ettim.
+- Kullanım bazlı kredi sistemi tasarlayarak servis başına maliyetlendirme ve paket yönetimi mekanizması oluşturdum.
+- Kredilerin yenilenmesi ve kullanıcı erişim kontrolünü yöneten bir iş akışı kurguladım.
+
+> 📌 Sistem mimarisi ve teknik detaylar ilgili proje reposunda açıklanmıştır.
 
 > Diğer stok takip ve blog tabanlı üretim projeleri de bulunmaktadır.
 
