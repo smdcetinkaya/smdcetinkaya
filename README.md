@@ -56,9 +56,16 @@ Gerçek zamanlı simülasyon verilerini mobil ortamda görselleştiren uçtan uc
 
 ### 🔗 Hatalı Link Tespiti Yapan Masaüstü Uygulaması
 
-- Async ve paralel tarama yapıları
-- Döngüsel link kontrolü ve iptal mekanizmaları
-- Derinlik bazlı site analizi ve raporlama
+Belirlenen bir web sitesi içerisinde tanımlı derinlik seviyesine kadar bağlantıları tarayarak hata kodlarını analiz eden bir masaüstü uygulaması geliştirdim.
+
+- Verilen başlangıç URL’sinden itibaren site içindeki bağlantıları derinlik bazlı olarak tarayan bir analiz mekanizması tasarladım.
+- Kullanıcı tarafından belirlenen HTTP hata kodlarını (örneğin 4xx ve 5xx) filtreleyerek raporlayan bir kontrol sistemi geliştirdim.
+- Hatalı linklerin bulunduğu sayfa, ilgili bağlantı ve anchor text bilgilerini detaylı şekilde listeleyen raporlama yapısı oluşturdum.
+- Tarama sırasında uygulamanın donmaması için async/await tabanlı asenkron yapı kullandım.
+- Performansı artırmak amacıyla paralel tarama mekanizması ekledim ve aynı anda birden fazla siteyi analiz edebilen çoklu tarama sistemi geliştirdim.
+- Döngüsel bağlantı problemlerini önlemek için kontrollü derinlik ve gezinme mekanizması tasarladım.
+
+📌 Mimari yapı ve teknik detaylar ilgili proje reposunda paylaşılmıştır.
 
 ### 🌐 ASP.NET Tabanlı AI Servisleri Sunan Web Platformu
 
