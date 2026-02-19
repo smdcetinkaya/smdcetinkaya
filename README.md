@@ -57,7 +57,7 @@ Gerçek zamanlı simülasyon verilerini mobil ortamda görselleştiren uçtan uc
 
 > 📌 Sistem mimarisi ve veri akış detayları ilgili proje reposunda açıklanmıştır.
 
-### 🔗 [Concurrent Broken Link Analyzer](https://github.com/kullanici-adin/concurrent-broken-link-analyzer)
+### 🔗 [Concurrent Broken Link Analyzer](https://github.com/smdcetinkaya/concurrent-broken-link-analyzer)
 
 Belirlenen bir web sitesi içerisinde tanımlı derinlik seviyesine kadar bağlantıları tarayarak hata kodlarını analiz eden bir masaüstü uygulaması geliştirdim.
 
