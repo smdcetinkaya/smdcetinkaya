@@ -60,7 +60,7 @@ Gerçek zamanlı simülasyon verilerini mobil ortamda görselleştiren uçtan uc
 ### 🔗 Concurrent Broken Link Analyzer
 
 Belirlenen bir web sitesi içerisinde tanımlı derinlik seviyesine kadar bağlantıları tarayarak hata kodlarını analiz eden bir masaüstü uygulaması geliştirdim.
-➡️ **[Repository Linki](https://github.com/kullanici-adin/concurrent-broken-link-analyzer)**
+➡️ **[Repository Linki](https://github.com/smdcetinkaya/concurrent-broken-link-analyzer)**
 
 - Verilen başlangıç URL’sinden itibaren site içindeki bağlantıları derinlik bazlı olarak tarayan bir analiz mekanizması tasarladım.
 - Kullanıcı tarafından belirlenen HTTP hata kodlarını (örneğin 4xx ve 5xx) filtreleyerek raporlayan bir kontrol sistemi geliştirdim.
