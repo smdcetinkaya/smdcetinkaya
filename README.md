@@ -35,7 +35,7 @@ Full-Stack geliştirme deneyimim sayesinde, tasarladığım sistemlerin frontend
 
 ## ⭐ Seçilmiş Projeler (Case Study)
 
-### 🍄 Mantar Türü Tespit Eden Mobil Uygulama
+### 📱 Mantar Türü Tespit Eden Mobil Uygulama
 
 - Farklı açık kaynak veri setleri harmanlanarak projeye özel bir görüntü veri seti oluşturduk.
 - Gerçek dünya koşullarını yansıtması amacıyla arka planı temizlenmemiş (gürültülü) görüntüler ile model eğitimi gerçekleştirdik.
