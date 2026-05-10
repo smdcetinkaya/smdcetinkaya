@@ -35,7 +35,7 @@ Full-Stack geliştirme deneyimim sayesinde, tasarladığım sistemlerin frontend
 
 ## ⭐ Seçilmiş Projeler (Case Study)
 
-### 📱 Mantar Türü Tespit Eden Mobil Uygulama
+### 📱 Mantar Türü Tespit Eden Mobil Uygulama(Mushroom Wizard)
 
 - Farklı açık kaynak veri setleri harmanlanarak projeye özel bir görüntü veri seti oluşturduk.
 - Gerçek dünya koşullarını yansıtması amacıyla arka planı temizlenmemiş (gürültülü) görüntüler ile model eğitimi gerçekleştirdik.
@@ -45,7 +45,7 @@ Full-Stack geliştirme deneyimim sayesinde, tasarladığım sistemlerin frontend
 
 > 📌 2 kişilik ekip ile uçtan uca geliştirilmiştir. Teknik detaylar, mimari kararlar ve deneysel süreçler ilgili proje reposunda paylaşılmıştır.
 
-### 📊 Simülasyon Telemetry Dashboard (Mobil)
+### 📊 Simülasyon Telemetry Dashboard (Dash Gauge)
 
 Gerçek zamanlı simülasyon verilerini mobil ortamda görselleştiren uçtan uca bir telemetry sistemi geliştirdim.
 
@@ -57,7 +57,7 @@ Gerçek zamanlı simülasyon verilerini mobil ortamda görselleştiren uçtan uc
 
 > 📌 Sistem mimarisi ve veri akış detayları ilgili proje reposunda açıklanmıştır.
 
-### 🔗 Concurrent Broken Link Analyzer
+### 🔗 Website Linkleri Analiz Uygulaması(Deep Link Checker)
 
 Belirlenen bir web sitesi içerisinde tanımlı derinlik seviyesine kadar bağlantıları tarayarak hata kodlarını analiz eden bir masaüstü uygulaması geliştirdim.
 ➡️ **[Repository Linki](https://github.com/smdcetinkaya/concurrent-broken-link-analyzer)**
@@ -71,7 +71,7 @@ Belirlenen bir web sitesi içerisinde tanımlı derinlik seviyesine kadar bağla
 
 > 📌 Mimari yapı ve teknik detaylar ilgili proje reposunda paylaşılmıştır.
 
-### 🌐 ASP.NET Tabanlı AI Servisleri Sunan Web Platformu
+### 🌐 ASP.NET Tabanlı AI Servisleri Sunan Web Platformu(CheCha Software)
 
 AI hizmetleri sunan ve yönetilebilir altyapıya sahip web tabanlı bir platform geliştirdim.
 
